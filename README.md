@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kayaba
 ==============================================================================================================================
 
-![]([https://steamuserimages-a.akamaihd.net/ugc/538505920003980820/4EF948BB7ACD9AB91A90A4E3D8AAE7D422493890/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://tenor.com/bVy3w.gif))
+![](https://media1.tenor.com/m/gSnQ1Rna77EAAAAC/kirito-star-burst-stream.gif)
 
 Indie Game Dev
 --------------
