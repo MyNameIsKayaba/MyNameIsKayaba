@@ -9,7 +9,7 @@ Indie Game Dev
 
 Self-taught programmer with around two years of experience, particularly skilled in Python and C#. I have approximately one year of game development experience, having created 'Save The Soldier' using Unity, available on both the App Store and Play Store
 
-*   🌍  I'm based in Taipei, Taiwan
+*   🌍  based in Taipei, Taiwan
 *   ✉️  You can contact me at [ray30266@gmail.com](mailto:ray30266@gmail.com)
   ### Skills 
 <p align="left"> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" class="icon"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
